@@ -1,3 +1,9 @@
 [submodule "Api-Gateway"]
 	path = Api-Gateway
 	url = https://github.com/abhi061201/Api-Gateway.git
+[submodule "Registry-Server"]
+	path = Registry-Server
+	url = https://github.com/abhi061201/Registry-Server.git
+[submodule "Quiz-Service"]
+	path = Quiz-Service
+	url = https://github.com/abhi061201/Quiz-Service.git
