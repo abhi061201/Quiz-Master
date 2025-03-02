@@ -7,3 +7,6 @@
 [submodule "Quiz-Service"]
 	path = Quiz-Service
 	url = https://github.com/abhi061201/Quiz-Service.git
+[submodule "Question-Service"]
+	path = Question-Service
+	url = https://github.com/abhi061201/Question-Service.git
